@@ -7,6 +7,6 @@ For this i am using the json file which stores the words with their synonyms.
 2. To run this application, simply clone this application into your local repo and run the application.
 
 
-Required Softwares:-
+`Required Softwares:-`
 
 1. Python3+
