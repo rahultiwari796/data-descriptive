@@ -1,5 +1,5 @@
 # data-descriptive
-Data Dictionary
+`Data Dictionary`
 
 1. This is working as a dictionary which provides the synonyms of given words.
 For this i am using the json file which stores the words with their synonyms.
